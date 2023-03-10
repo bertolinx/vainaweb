@@ -14,7 +14,7 @@ Abordando conteudo do básico ao avançado em diversas linguagens e seus desafio
 
 Feito usando somente HTML
 
-[Clique aqui para acessar o projeto](https://bertolinx.github.io/estudos/curso-em-video/projetos/and/android.html)
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-01/)
 
 ## Tecnologias
 
@@ -23,13 +23,24 @@ Feito usando somente HTML
 
 #
 
-> Dev - Cordel
+## Projeto 2
 
-![preview](.github/bertolinx.github.io_html-css_curso-em-video_projetos_cordeal_index.html.png)
+Feito usando somente HTML
 
-Projeto desenvolvido pelo [Curso em Video](https://www.cursoemvideo.com/).
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-02/)
 
-[Clique aqui para acessar o projeto](https://bertolinx.github.io/estudos/curso-em-video/projetos/cordeal/index.html)
+## Tecnologias
+
+- Html
+- Git e GitHub
+
+#
+
+## Projeto 3
+
+Feito usando somente HTML
+
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-03/)
 
 ## Tecnologias
 
@@ -39,13 +50,11 @@ Projeto desenvolvido pelo [Curso em Video](https://www.cursoemvideo.com/).
 
 #
 
-> Card (Order Summary Component)
+## Projeto 4
 
-![preview](.github/bertolinx.github.io_html-css_frontend-mentor_order-summary-component_card.html.png)
+Feito usando somente HTML
 
-Projeto desenvolvido pelo [Frontend-Mentor](https://www.frontendmentor.io/).
-
-[Clique aqui para acessar o projeto](https://bertolinx.github.io/estudos/frontend-mentor/order-summary-component/card.html)
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-04/)
 
 ## Tecnologias
 
@@ -55,13 +64,11 @@ Projeto desenvolvido pelo [Frontend-Mentor](https://www.frontendmentor.io/).
 
 #
 
-> Trilha Explorer
+## Projeto 5
 
-![preview](.github/bertolinx.github.io_html-css_nlw-esports-explore_index.html.png)
+Feito usando somente HTML
 
-Projeto construido do evento [Next Level Week da Rocketseat](https://app.rocketseat.com.br/event/nlw-09/explorer/abertura).
-
-[Clique aqui para acessar o projeto](https://bertolinx.github.io/estudos/nlw-esports-explore/index.html)
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-05/)
 
 ## Tecnologias
 
@@ -69,4 +76,61 @@ Projeto construido do evento [Next Level Week da Rocketseat](https://app.rockets
 - Css
 - Git e GitHub
 
- 
+#
+
+## Projeto 6
+
+Feito usando somente HTML
+
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-05/)
+
+## Tecnologias
+
+- Html
+- Css
+- Git e GitHub
+
+#
+
+## Projeto 7
+
+Feito usando somente HTML
+
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-07/)
+
+## Tecnologias
+
+- Html
+- Css
+- Git e GitHub
+
+#
+
+## Projeto 8
+
+Feito usando somente HTML
+
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-08/)
+
+## Tecnologias
+
+- Html
+- Css
+- JavaScript
+- Git e GitHub
+
+#
+
+## Projeto 9
+
+Feito usando somente HTML
+
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-08/)
+
+## Tecnologias
+
+- Html
+- JavaScript
+- Git e GitHub
+
+#
