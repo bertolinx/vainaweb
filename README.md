@@ -8,11 +8,12 @@
 #
 
 ## Alguns dos Projetos Desenvolvido durante o Curso!
-Abordando conteudo do básico ao avançado em diversas linguagens e seus desafios.
-#
-## Projeto 1
 
-Feito usando somente HTML
+Abordando conteudo do básico ao avançado em diversas linguagens e seus desafios.
+
+#
+
+## Projeto 1
 
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-01/)
 
@@ -25,8 +26,6 @@ Feito usando somente HTML
 
 ## Projeto 2
 
-Feito usando somente HTML
-
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-02/)
 
 ## Tecnologias
@@ -37,8 +36,6 @@ Feito usando somente HTML
 #
 
 ## Projeto 3
-
-Feito usando somente HTML
 
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-03/)
 
@@ -52,8 +49,6 @@ Feito usando somente HTML
 
 ## Projeto 4
 
-Feito usando somente HTML
-
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-04/)
 
 ## Tecnologias
@@ -65,8 +60,6 @@ Feito usando somente HTML
 #
 
 ## Projeto 5
-
-Feito usando somente HTML
 
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-05/)
 
@@ -80,8 +73,6 @@ Feito usando somente HTML
 
 ## Projeto 6
 
-Feito usando somente HTML
-
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-05/)
 
 ## Tecnologias
@@ -93,8 +84,6 @@ Feito usando somente HTML
 #
 
 ## Projeto 7
-
-Feito usando somente HTML
 
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-07/)
 
@@ -108,8 +97,6 @@ Feito usando somente HTML
 
 ## Projeto 8
 
-Feito usando somente HTML
-
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-08/)
 
 ## Tecnologias
@@ -122,8 +109,6 @@ Feito usando somente HTML
 #
 
 ## Projeto 9
-
-Feito usando somente HTML
 
 [Clique aqui para acessar o projeto](https://bertolinx.github.io/vainaweb/Desafio-08/)
 
